@@ -1,4 +1,4 @@
-# Silverithm
+![이전배치목록4](https://github.com/user-attachments/assets/16621df7-503c-4706-a7cb-15157eeb0f43)# Silverithm
 
 ## 해결하고자 하는 문제
 
@@ -26,20 +26,33 @@
 
 
 ## 로그인
-![로그인 기능](https://github.com/silverithm/.github/assets/52617204/fe697952-d180-4133-8623-fc1a866f4811)
+![로그인2](https://github.com/user-attachments/assets/f5192949-ab38-41ab-a89a-5d62ec5392aa)
+
+## 회원가입
+![회원가입1](https://github.com/user-attachments/assets/0e298a90-f24f-49a8-bc40-2115e25df79d)
 
 ## 직원 및 어르신 추가
-![추가 기능](https://github.com/silverithm/.github/assets/52617204/506981ab-ce24-451c-b622-f1133f362366)
+![직원어르신추가6](https://github.com/user-attachments/assets/70cc465c-bc2c-40b5-8f07-faecdae4e015)
+
+## 부부 어르신 추가
+![부부어르신추가9](https://github.com/user-attachments/assets/5807d913-75ab-4b37-9690-7f31ae0aafbf)
+
+## 수정 기능
+![수정7](https://github.com/user-attachments/assets/09f96432-5ba2-4cdb-9df2-3821226a54aa)
+
+## 삭제 기능
+![삭제8](https://github.com/user-attachments/assets/6d6c1401-026d-4b45-b141-09742b70849a)
 
 ## 어르신 고정
-![고정기능](https://github.com/silverithm/.github/assets/52617204/b5181a69-b05d-4d09-88f4-7a7123f371c8)
+![배치고정10](https://github.com/user-attachments/assets/27ff36cb-14a5-4299-a071-f8c1ff25748e)
 
-## 데이터 확인
-![데이터 확인 기능](https://github.com/silverithm/.github/assets/52617204/dbfea09a-4952-43c6-b8d1-3cc59218c042)
+## 단일 경로 길 찾기
+![단일경로길찾기3](https://github.com/user-attachments/assets/1aa4e91f-d9d9-47fe-8f08-9104fb600eb4)
 
-## 차량 배치 진행도 확인
-![로딩프로그레스기능](https://github.com/silverithm/.github/assets/52617204/9c2c4ce6-3d6c-41a8-9588-cadf833c49b6)
+## 이전 배치 목록
+![이전배치목록4](https://github.com/user-attachments/assets/02906773-7a9b-40a0-8925-751a67dd0c0d)
 
-## 차량 배치 결과
-![동선확인기능](https://github.com/silverithm/.github/assets/52617204/ac67ce3f-66f4-46ad-a5c3-8a08d1429fd9)
+## 인공지능 차량 배치
+![차량배치결과5](https://github.com/user-attachments/assets/3b914087-9355-4d6c-a5ea-257b7bd9fafc)
+
 
